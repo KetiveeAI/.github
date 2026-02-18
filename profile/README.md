@@ -6,10 +6,9 @@
 
 **Open-source software for everyone.**
 
-[![Website](https://img.shields.io/website?down_message=Under%20Development&label=ketivee.com&up_color=blue&url=https%3A%2F%2Fketivee.com)](https://ketivee.com)
-[![GitHub Stars](https://img.shields.io/github/stars/ketivee-org?style=social)](https://github.com/ketivee-org)
-[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ketivee-org)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/PCwcr82T)
+[![Ketivee Search](https://img.shields.io/website?down_message=Under%20Development&label=ketivee.com&up_color=blue&url=https%3A%2F%2Fketivee.com)](https://ketivee.com)
+[![GitHub Stars](https://img.shields.io/github/stars/ketivee-org?style=social)](https://github.com/ketiveeai)
+[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ketiveeai)
 
 </div>
 
