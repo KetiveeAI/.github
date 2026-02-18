@@ -1,4 +1,4 @@
-# ![Ketivee Logo](https://ketivee.com/assets/favicon.ico) Welcome to **Ketivee!** 🚀  
+# ![Ketivee Logo]([https://ketivee.com/assets/favicon.ico](https://ketivee.com/images/icon.svg)) Welcome to **Ketivee!** 🚀  
 
 [![Website Status](https://img.shields.io/website?down_message=Under%20Development&label=ketivee.com&up_color=blue&url=https%3A%2F%2Fketivee.com)](https://ketivee.com)  
 [![GitHub Org Stars](https://img.shields.io/github/stars/ketivee-org?style=social)](https://github.com/ketivee-org)  
