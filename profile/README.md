@@ -7,7 +7,7 @@
 **Building the next generation of open technology and AI.**
 
 [![Ketivee Search](https://img.shields.io/website?down_message=Under%20Development&label=ketivee.com&up_color=blue&url=https%3A%2F%2Fketivee.com)](https://ketivee.com)
-[![GitHub Stars](https://img.shields.io/github/stars/ketivee-org?style=social)](https://github.com/ketiveeai)
+[![GitHub Stars](https://img.shields.io/github/stars/ketiveeAI?style=social)](https://github.com/KetiveeAI)
 [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ketiveeai)
 
 </div>
