@@ -4,7 +4,7 @@
 
 # Ketivee
 
-**Open-source software for everyone.**
+**Building the next generation of open technology and AI.**
 
 [![Ketivee Search](https://img.shields.io/website?down_message=Under%20Development&label=ketivee.com&up_color=blue&url=https%3A%2F%2Fketivee.com)](https://ketivee.com)
 [![GitHub Stars](https://img.shields.io/github/stars/ketivee-org?style=social)](https://github.com/ketiveeai)
@@ -16,20 +16,23 @@
 
 ## About
 
-Ketivee is an open-source software development organization building tools that are accessible to everyone — from first-time contributors to seasoned engineers. We believe great software is built in the open, together.
+Ketivee is a technology organization focused on building AI systems, developer tools, and digital infrastructure for the future.
 
-Our community is welcoming, collaborative, and always growing. Whether you're here to contribute code, improve documentation, report bugs, or share ideas, there's a place for you at Ketivee.
+Many of our projects are open source, enabling developers and researchers around the world to collaborate, learn, and build together. At the same time, we develop advanced platforms and technologies that power the broader Ketivee ecosystem.
+
+Our goal is simple: build powerful technology that is accessible, transparent, and useful for everyone.
+
+Whether you're contributing code, exploring research, improving documentation, or sharing ideas — you're welcome here.
 
 ---
 
 ## Projects
 
 | Project | Description | Status |
-|---------|-------------|--------|
-| [ketiveeai aadi R-VAE](https://github.com/KetiveeAI/AAdiR-VAE) | A vae model from us | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
-| ketivee-website | Official Ketivee website | ![In Development](https://img.shields.io/badge/status-in%20development-yellow) |
-| [ketivee-docs](https://docs.ketivee.com) | Documentation hub | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
-
+|--------|-------------|--------|
+| [AAdi R-VAE](https://github.com/KetiveeAI/AAdiR-VAE) | Experimental multimodal VAE model for image and texture generation | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
+| Ketivee Search | Official platform website | ![Development](https://img.shields.io/badge/status-in%20development-yellow) |
+| [Ketivee Docs](https://docs.ketivee.com) | Documentation hub for all Ketivee technologies | ![Active](https://img.shields.io/badge/status-active-brightgreen) |
 ---
 
 ## Getting Started
@@ -59,7 +62,7 @@ Stay up to date and connect with the Ketivee community across our channels:
 | 📷 Instagram | [@ketiveeai](https://instagram.com/ketiveeai) |
 | 📺 YouTube | [@ketivee](https://youtube.com/@ketivee) |
 | 📘 Facebook | [ketiveeai](https://facebook.com/ketiveeai) |
-| 📩 Email | [contact@ketivee.org](mailto:support@ketivee.com) |
+| 📩 Email | [support@ketivee..com](mailto:support@ketivee.com) |
 
 ---
 
@@ -79,5 +82,5 @@ This project is open source. See individual repositories for their respective li
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the Ketivee community</sub>
+  <sub>Built with curiosity, research, and community collaboration.</sub>
 </div>
