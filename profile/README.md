@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ketivee.com/images/icon.svg" alt="Ketivee Logo" width="80" height="80" />
+<img src="https://ketivee.com/logo.svg" alt="Ketivee Logo" width="80" height="80" />
 
 # Ketivee
 
